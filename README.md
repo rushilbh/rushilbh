@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rushilbh
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Python and cloud computing 
+- 🌱 I’m currently learning Python and Java Script,Java,HTML and CSS
 - 📫 How to reach me gmail me at ytgamingrb@gmail.com
 
 <!---
